@@ -9,7 +9,7 @@ Qwen3 模型支持两种思考模式：
 * 思考模式：在这种模式下，模型会逐步推理，经过深思熟虑后给出最终答案。这种方法非常适合需要深入思考的复杂问题。 
 * 非思考模式：在此模式中，模型提供快速、近乎即时的响应，适用于那些对速度要求高于深度的简单问题。 
 
-本服务在AMD Turin ecs.g9a.8xlarge 实力上完成Qwen3-30B-A3B模型的简单对话部署。
+本服务在AMD Turin **ecs.g9a.8xlarge** 实力上完成Qwen3-30B-A3B模型的简单对话部署。
 
 
 ## llama.cpp 简介
@@ -44,7 +44,7 @@ Qwen3-30B-A3B chat 在阿里云上的费用主要涉及：
 
 ## 部署流程
 
-1. 单击[部署链接](https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceName=Qwen3-30B-A3B-Chat-CPU版本-AMD&ServiceVersion=draft)。根据界面提示选择模型并填写参数，可以看到对应询价明细，确认参数后点击**下一步：确认订单**。
+1. 单击[部署链接](https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceName=Qwen3-30B-A3B-Chat-CPU版本-AMD&ServiceVersion=draft)。根据界面提示实例选择并填写参数，可以看到对应询价明细，确认参数后点击**下一步：确认订单**。
 
    ![deploy.png](1.jpg)
 	
