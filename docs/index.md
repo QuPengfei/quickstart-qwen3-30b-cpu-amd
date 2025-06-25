@@ -71,6 +71,7 @@ Qwen3-30B-A3B chat 在阿里云上的费用主要涉及：
     ![longin.png](7.jpg)
 
 ## [演示视频](demo.gif)
+   ![result.png](demo.gif)
 
 ## 性能测试
 
